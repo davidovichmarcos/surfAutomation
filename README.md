@@ -1,2 +1,2 @@
 # surfAutomation
-An automation to open usefull surf pages
+An automation proyect to open usefull surf pages
